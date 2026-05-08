@@ -110,4 +110,7 @@ Screenshots are included in the `screenshots/` folder:
 
 ## AI Usage
 
-I used ChatGPT to help understand the assignment requirements, choose k6 and Lighthouse, structure the k6 load and spike tests, and interpret the k6 and Lighthouse results. 
+I used ChatGPT throughout this assignment as a support tool for understanding the instructions and planning my approach. At the beginning, I used it to break down what each exercise was asking for, especially the difference between functional regression testing, performance regression testing, server-side performance testing, and client-side performance testing. I also used ChatGPT to compare possible tools such as k6, Locust, and Lighthouse before deciding to use k6 for Exercise 2 and Google Lighthouse for Exercise 3.
+
+For the k6 portion, I used ChatGPT to help me understand how to structure the load test and spike test scripts, including how to define virtual users, stages, thresholds, and checks. I also asked for help interpreting the k6 output, such as p95 response time, error rate, throughput, and whether the thresholds passed. 
+
